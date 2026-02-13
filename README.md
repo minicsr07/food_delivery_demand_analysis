@@ -79,13 +79,3 @@ This project demonstrates strong exploratory data analysis techniques and busine
 It highlights the importance of understanding feature relationships before building predictive models and showcases data-driven insight extraction for real-world delivery systems.
 
 ---
-
-## Future Improvements
-
-- Incorporate external features like traffic or weather
-- Build interactive dashboard (Plotly / Streamlit)
-- Apply predictive modeling on real-world dataset
-
----
-
-## 📂 Project Structure
